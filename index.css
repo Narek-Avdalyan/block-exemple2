@@ -9,13 +9,13 @@ div {
     margin: 7px;
     border: 2px solid;
     padding: 50px;
-    background-color: khaki;
-    color:lightseagreen;
-    font-family: inherit;
+    background-color: rgb(146, 143, 114);
+    color:rgb(172, 230, 227);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .headerButton, input, label {
-    margin: 10px;
+    margin: 11px;
 }
 input{
     padding: 10px;
