@@ -9,6 +9,9 @@ div {
     margin: 7px;
     border: 2px solid;
     padding: 50px;
+    background-color: khaki;
+    color: olive;
+    font-family: inherit;
 }
 
 .headerButton, input, label {
