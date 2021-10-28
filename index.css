@@ -6,11 +6,11 @@ footer, header {
 
 div {
     display: flex;
-    margin: 7px;
-    border: 2px solid;
+    margin: 10px;
+    border: 3px solid;
     padding: 50px;
-    background-color: rgb(146, 143, 114);
-    color:rgb(172, 230, 227);
+    background-color: rgb(255, 253, 234);
+    color:rgb(247, 206, 118);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
